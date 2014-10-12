@@ -37,7 +37,7 @@ The new revolution of modern web design has brought forth new wonders for the we
 - Grunt -
 - Bower -
 
-Each of these tools tackle a different specific problem but work extremely well together. In Fact Yeoman was designed to work with Grunt and Bower in it's conception. So let's look at a common use case for when you might use these tools.
+All of these tools are command line/terminal applications that require NPM and Node.js. Each of these tools tackle a different specific problem but work extremely well together. In Fact Yeoman was designed to work with Grunt and Bower in it's conception. So let's look at a common use case for when you might use these tools.
 
 For The Bookseller company we were asked to create multiple micro-sites such as the Futurebook Conference site, the Marketing and Publicity and the Children's Conference. Each of these sites needed creating with minimal development time and a quick turnaround. None of these sites needed a CMS or anything complicated or dynamic they were purely informational meaning we designed them as simple flat HTML sites.
 
@@ -49,8 +49,32 @@ The first thing a developer might do for a project to go fetch the HTML5 Boilerp
 
 Yeoman serves as a way to quickly scaffold and put together a website folder structure, pull in dependencies, setup Grunt and Bower files meaning you can be developing a website in minutes! Be rid of the tedious file fetching and web traversing for snippets of code for a basic setup.
 
-For The Bookseller micro-sites we used the official Webapp generator developed by the amazing people behind Yeoman itself! The generator comes with a lot of amazing tools built in for Grunt including SASS and Compass compilation, Autoprefixr, Javascript and Coffeescript concatenation and minification amongst other things. The generator also encorporates Bootstrap and Modernizr as optionals for Bower and even hooks them up!
+For The Bookseller micro-sites we used the official Webapp generator developed by the amazing people behind Yeoman itself! The generator comes with a lot of amazing tools built in for Grunt including SASS and Compass compilation, Autoprefixr, Javascript and Coffeescript concatenation and minification amongst other things. The generator also encorporates Bootstrap and Modernizr as optionals for Bower and even hooks them up! For example simple type these two commands to have a Webapp generator site setup.
+
+`npm install -g generator-webapp
+yo webapp`
 
 ![Oh my god!!!](omg.gif)
 
 All of this saves time and in turn saves money. The community has taken no time at all in creating they're own generators. Some of my favourite's include `TODO: Favourite's` all of which add to a bigger base of generators to choose from for the right situation.
+
+## Grunt
+
+So with the power of Yeoman we now have a way of getting a project up and running in a consistent and quick way we should look at Grunt! Grunt is a automation tool, think of any menial and boring repetitive task you might go through when developing a website and there is probably a Grunt module that eases the pain.
+
+Common and well known example of repetitive tasks inlcude, compiling SASS/Compass/Coffeescript, minifying of JS and CSS (even as far as HTML!), concatenating files, image optimisation, reloading the browser window and installing third party libraries. Grunt has modules that automate all of these tasks. More uncommon examples and personal favourite modules include [Favicons](https://github.com/gleero/grunt-favicons), [Build Control](https://github.com/robwierzbowski/grunt-build-control) and [Uncss](https://github.com/addyosmani/grunt-uncss). For a list of more grunt modules visit the [Grunt offical website](http://gruntjs.com/plugins).
+
+Simply supply the command and away you go!
+
+`grunt serve   // For the webapp will setup a local server with livereload and watch
+grunt build    // Creates a dist folder will all production level assets`
+
+![Much boring tasks, such automation, so grunt, much sanity](doge.jpg)
+
+Again this saves valuable development time that would otherwise be spent getting assets ready for production level quality with the potential for human error. These little tasks we do every day add up to a lot of time.
+
+## Bower
+
+
+
+## The Future
