@@ -51,8 +51,8 @@ Yeoman serves as a way to quickly scaffold and put together a website folder str
 
 For The Bookseller micro-sites we used the official Webapp generator developed by the amazing people behind Yeoman itself! The generator comes with a lot of amazing tools built in for Grunt including SASS and Compass compilation, Autoprefixr, Javascript and Coffeescript concatenation and minification amongst other things. The generator also encorporates Bootstrap and Modernizr as optionals for Bower and even hooks them up! For example simple type these two commands to have a Webapp generator site setup.
 
-`npm install -g generator-webapp
-yo webapp`
+    npm install -g generator-webapp
+    yo webapp
 
 ![Oh my god!!!](omg.gif)
 
@@ -66,8 +66,8 @@ Common and well known example of repetitive tasks inlcude, compiling SASS/Compas
 
 Simply supply the command and away you go!
 
-`grunt serve   // For the webapp will setup a local server with livereload and watch
-grunt build    // Creates a dist folder will all production level assets`
+    grunt serve   // For the webapp will setup a local server with livereload and watch
+    grunt build    // Creates a dist folder will all production level assets
 
 ![Much boring tasks, such automation, so grunt, much sanity](doge.jpg)
 
@@ -75,6 +75,39 @@ Again this saves valuable development time that would otherwise be spent getting
 
 ## Bower
 
+Amazing stuff eh? Well now we have everything we could ever need to make our project happen, not quite. It often happens that great libraries such as [Modernizr](http://modernizr.com/), [jQuery](http://jquery.com/), [Animate.css](http://daneden.github.io/animate.css/) and [Normalize.css](http://necolas.github.io/normalize.css/) are missing! Such valuable libraries would go a long way to speeding up and raising the quality of our front end! Never fear, remember our copy paste and manual working days are over. A little birdy told me he can fetch these things for me!
 
+Bower is the front end equivalent of PHP's Composer, Ruby's RubyGems and Node's NPM. All other major programming languages have a package manager of some kind for dealing with integrating and updating third-party packages, something that front end developers have been sorely lacking. No more need to go out and fetch the latest code or wondering which library you also might need included and no more out dating of dependencies.
+
+With one command we can get any popular front end third party library using:
+
+    bower install --save jquery
+
+![Hallelujah!!!](hallelujah.jpg)
+
+What a life saver that is! There is even a Grunt module that comes with the Yeoman Webapp that installs said CSS/JS library directly into you code called [Wiredep](https://github.com/stephenplusplus/grunt-wiredep). This module will turn this:
+
+    <!-- bower:js -->
+    <!-- endbower -->
+
+After running this:
+
+    bower install jquery --save
+
+Into this!
+
+    <!-- bower:js -->
+    <script src="bower_components/jquery/jquery.js"></script>
+    <!-- endbower -->
+
+Magic ;D
 
 ## The Future
+
+So there we have a project that fit for the modern web! So many great tools to save time and improve quality of front end production. So what is the future then? If we have these tools now what's the next step?
+
+The year 2013 was the year these tools became known and started to grow interest. 2014 is the year that these tools we really becoming almost industry standards. The popularity of these tools is clear to see, offering much value in exchange for a small learning curve they fulfill a want and need that people may not have realised.
+
+I believe that as the community continues to embrace these tools we will see greater things come forth. To all those who helped made these great things happen, thank you.
+
+[You're awesome!!!](awesome-dog.jpg)
