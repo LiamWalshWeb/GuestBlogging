@@ -1,7 +1,7 @@
 The Triforce of Front End Development
 =====================================
 
-A lot of the best web developers in the world started off in an era that was witnessing the birth of the internet. The likes of Jeffery Zeldman, `TODO: add more names here` people who are a great influence in the industry and also helped make the web what it is today. I remember reading the blogs and article's that these legends produced and remember the struggles that early web development endured. Long winded and unmanageable CSS files, bloated and unmanageable HTML code and inconsistent Javascript code... that was also unmanageable.
+A lot of the best web developers in the world started off in an era that was witnessing the birth of the internet. The likes of Jeffery Zeldman, Andy Clarke, Eric Meyer and Ethan Marcotte, people who are a great influence in the industry and also helped make the web what it is today. I remember reading the blogs and article's that these legends produced and have read about the struggles that early web development endured. Long winded and unmanageable CSS files, bloated and unmanageable HTML code and inconsistent Javascript code... that was also unmanageable.
 
 I was born during this time but did not experience the internet till much later in its lifespan in the late 2000's. Joining at a age where the web was going through a transition of which it had never been through before. Responsive web design, preprocessors, code standards, CSS3 and HTML5, these were my first experiences with web development.
 
@@ -9,15 +9,13 @@ The new generation of front enders will face challenges we can't begin to guess 
 
 ![The Web Triforce](the-web-triforce.png)
 
-> A long, long time ago the web was in an age of Chaos. In the middle of this chaos, on a little website in the realm of The Interent, a legend was being handed down from generation to generation, the legend of the 'Triforce'; three front end tools possessing mystical powers.
-
 ## The Revolution
 
 The new revolution of modern web design has brought forth new wonders for the web along with it's challenges and three tools have arisen to help make developers lives better (and to prevent early stress driven graves). These tools include:
 
-- Yeoman -
-- Grunt -
-- Bower -
+- Yeoman - A project scaffolding tool
+- Grunt - An automation workflow tool
+- Bower - A package manager tool
 
 All of these tools are command line/terminal applications that require NPM and Node.js. Each of these tools tackle a different specific problem but work extremely well together. In Fact Yeoman was designed to work with Grunt and Bower in it's conception. So let's look at a common use case for when you might use these tools.
 
@@ -38,7 +36,7 @@ For The Bookseller micro-sites we used the official Webapp generator developed b
 
 ![Oh my god!!!](omg.gif)
 
-All of this saves time and in turn saves money. The community has taken no time at all in creating they're own generators. Some of my favourite's include `TODO: Favourite's` all of which add to a bigger base of generators to choose from for the right situation.
+All of this saves time and in turn saves money. The community has taken no time at all in creating they're own generators. Some of my favourite's include [SSH](https://github.com/chuckmo/grunt-ssh), [Google PageSpeed](https://github.com/jrcryer/grunt-pagespeed), [Autoshot](https://github.com/Ferrari/grunt-autoshot) and [Build Control](https://github.com/robwierzbowski/grunt-build-control). all of which add to a bigger base of generators to choose from for the right situation.
 
 ## Grunt
 
