@@ -92,4 +92,4 @@ The year 2013 was the year these tools became known and started to grow interest
 
 I believe that as the community continues to embrace these tools we will see greater things come forth. To all those who helped made these great things happen, thank you.
 
-[You're awesome!!!](awesome-dog.jpg)
+![You're awesome!!!](awesome-dog.jpg)
