@@ -5,7 +5,7 @@ A lot of the best web developers in the world started off in an era that was wit
 
 I was born during this time but did not experience the internet till much later in its lifespan in the late 2000's. Joining at a age where the web was going through a transition of which it had never been through before. Responsive web design, preprocessors, code standards, CSS3 and HTML5, these were my first experiences with web development.
 
-The new generation of front enders will face challenges we can't begin to guess but for now this generation must tackle a world wide web that demands bigger better things and with business' cutting to the bone on budgets less time to do so! Fear not for the people have taken up the challenge! The web community is maturing every day and a revolution of open source sharing means new tools are emerging to help with the crisis.
+The new generation of front enders will face challenges we can't begin to guess but for now this generation must tackle a world wide web that demands bigger better things and with businesses cutting to the bone on budgets, less time to do so! Fear not for the people have taken up the challenge! The web community is maturing every day and a revolution of open source sharing means new tools are emerging to help with the crisis and speed up development time and quality.
 
 ![The Web Triforce](the-web-triforce.png)
 
@@ -13,15 +13,15 @@ The new generation of front enders will face challenges we can't begin to guess 
 
 The new revolution of modern web design has brought forth new wonders for the web along with it's challenges and three tools have arisen to help make developers lives better (and to prevent early stress driven graves). These tools include:
 
-- Yeoman - A project scaffolding tool
-- Grunt - An automation workflow tool
-- Bower - A package manager tool
+- [Yeoman](http://yeoman.io/) - A project scaffolding tool
+- [Grunt](http://gruntjs.com/) - An automation workflow tool
+- [Bower](http://bower.io/) - A package manager tool
 
 All of these tools are command line/terminal applications that require NPM and Node.js. Each of these tools tackle a different specific problem but work extremely well together. In Fact Yeoman was designed to work with Grunt and Bower in it's conception. So let's look at a common use case for when you might use these tools.
 
-For The Bookseller company we were asked to create multiple micro-sites such as the Futurebook Conference site, the Marketing and Publicity and the Children's Conference. Each of these sites needed creating with minimal development time and a quick turnaround. None of these sites needed a CMS or anything complicated or dynamic they were purely informational meaning we designed them as simple flat HTML sites.
+For The Bookseller company we were asked to create multiple micro-sites such as the Futurebook Conference, Marketing and Publicity and the Children's Conference sites. Each of these sites needed creating with minimal development time and a quick turnaround. None of these sites needed a CMS or anything complicated or dynamic they were purely informational meaning we designed them as simple flat HTML sites.
 
-The first thing a developer might do for a project to go fetch the HTML5 Boilerplate and paste that into an index.html file, go fetch Normalize and paste that into a CSS file or a SASS partial, go fetch Modernizr, jQuery and so on. Tiring stuff right?
+The first thing a developer might do for a project to go fetch the HTML5 Boilerplate and paste that into an index.html file, go fetch Normalize and paste that into a CSS file or a SASS partial, go fetch Modernizr, jQuery and so on. Tiring stuff right? Not anymore.
 
 ![So tired of copy and paste](tired.jpg)
 
@@ -29,20 +29,20 @@ The first thing a developer might do for a project to go fetch the HTML5 Boilerp
 
 Yeoman serves as a way to quickly scaffold and put together a website folder structure, pull in dependencies, setup Grunt and Bower files meaning you can be developing a website in minutes! Be rid of the tedious file fetching and web traversing for snippets of code for a basic setup.
 
-For The Bookseller micro-sites we used the official Webapp generator developed by the amazing people behind Yeoman itself! The generator comes with a lot of amazing tools built in for Grunt including SASS and Compass compilation, Autoprefixr, Javascript and Coffeescript concatenation and minification amongst other things. The generator also encorporates Bootstrap and Modernizr as optionals for Bower and even hooks them up! For example simple type these two commands to have a Webapp generator site setup.
+For The Bookseller micro-sites we used the official [Webapp generator](https://github.com/yeoman/generator-webapp) developed by the amazing people behind Yeoman itself! The generator comes with a lot of amazing tools built in for Grunt including SASS and Compass compilation, Autoprefixr, Javascript and Coffeescript concatenation and minification amongst other things. The generator also incorporates Bootstrap and Modernizr as optionals for Bower and even hooks them up! For example simple type these two commands to have a Webapp generator site setup.
 
     npm install -g generator-webapp
     yo webapp
 
 ![Oh my god!!!](omg.gif)
 
-All of this saves time and in turn saves money. The community has taken no time at all in creating they're own generators. Some of my favourite's include [SSH](https://github.com/chuckmo/grunt-ssh), [Google PageSpeed](https://github.com/jrcryer/grunt-pagespeed), [Autoshot](https://github.com/Ferrari/grunt-autoshot) and [Build Control](https://github.com/robwierzbowski/grunt-build-control). all of which add to a bigger base of generators to choose from for the right situation.
+All of this saves time and in turn saves money. The community has taken no time at all in creating they're own generators. Some of my favourite's include [Socketio](https://github.com/individual11/generator-socketio), [Angular Fullstack](https://github.com/DaftMonk/generator-angular-fullstack) and [Style Prototype](https://github.com/north/generator-style-prototype). All of which add to a bigger base of generators to choose from for the right situation.
 
 ## Grunt
 
 So with the power of Yeoman we now have a way of getting a project up and running in a consistent and quick way we should look at Grunt! Grunt is a automation tool, think of any menial and boring repetitive task you might go through when developing a website and there is probably a Grunt module that eases the pain.
 
-Common and well known example of repetitive tasks inlcude, compiling SASS/Compass/Coffeescript, minifying of JS and CSS (even as far as HTML!), concatenating files, image optimisation, reloading the browser window and installing third party libraries. Grunt has modules that automate all of these tasks. More uncommon examples and personal favourite modules include [Favicons](https://github.com/gleero/grunt-favicons), [Build Control](https://github.com/robwierzbowski/grunt-build-control) and [Uncss](https://github.com/addyosmani/grunt-uncss). For a list of more grunt modules visit the [Grunt offical website](http://gruntjs.com/plugins).
+Common and well known example of repetitive tasks inlcude, compiling SASS/Compass/Coffeescript, minifying of JS and CSS (even as far as HTML!), concatenating files, image optimisation, reloading the browser window and installing third party libraries. Grunt has modules that automate all of these tasks. More uncommon examples and personal favourite modules include [Favicons](https://github.com/gleero/grunt-favicons), [Build Control](https://github.com/robwierzbowski/grunt-build-control), [Uncss](https://github.com/addyosmani/grunt-uncss), [SSH](https://github.com/chuckmo/grunt-ssh), [Google PageSpeed](https://github.com/jrcryer/grunt-pagespeed), [Autoshot](https://github.com/Ferrari/grunt-autoshot) and [Build Control](https://github.com/robwierzbowski/grunt-build-control). For a list of more grunt modules visit the [Grunt offical website](http://gruntjs.com/plugins).
 
 Simply supply the command and away you go!
 
@@ -65,7 +65,7 @@ With one command we can get any popular front end third party library using:
 
 ![Hallelujah!!!](hallelujah.jpg)
 
-What a life saver that is! There is even a Grunt module that comes with the Yeoman Webapp that installs said CSS/JS library directly into you code called [Wiredep](https://github.com/stephenplusplus/grunt-wiredep). This module will turn this:
+What a life saver that is! There is even a Grunt module that comes with the Yeoman Webapp that installs said CSS/JS library directly into your code called [Wiredep](https://github.com/stephenplusplus/grunt-wiredep). This module will turn this:
 
     <!-- bower:js -->
     <!-- endbower -->
