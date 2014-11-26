@@ -1,6 +1,8 @@
 The Triforce of Front End Development
 =====================================
 
+This article aims at introducing some of the current and most popular tools being adopted by front end developers for building websites and applications for the modern web. We will briefly look at web development years ago and how times have changed, undoubtedly for the better. Moving onto looking at the Yeoman, Grunt and Bower tools and examples of how you can use them to make your workflow more efficient and quality.
+
 A lot of the best web developers in the world started off in an era that was witnessing the birth of the internet. The likes of Jeffery Zeldman, Andy Clarke, Eric Meyer and Ethan Marcotte, people who are a great influence in the industry and also helped make the web what it is today. I remember reading the blogs and article's that these legends produced and have read about the struggles that early web development endured. Long winded and unmanageable CSS files, bloated and unmanageable HTML code and inconsistent Javascript code... that was also unmanageable.
 
 I was born during this time but did not experience the internet till much later in its lifespan in the late 2000's. Joining at a age where the web was going through a transition of which it had never been through before. Responsive web design, preprocessors, code standards, CSS3 and HTML5, these were my first experiences with web development.
