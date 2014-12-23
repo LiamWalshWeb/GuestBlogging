@@ -25,7 +25,7 @@ It is true that Node.js had it's share of ups and [downs](https://medium.com/coo
 
 ### Animation
 
-Amazing progress with Google's [material design](http://www.google.co.uk/design/spec/material-design/introduction.html#) which puts a great emphasis on the coupling of animation in response to a user's actions makes what might be considered a very plain visual design filled with personality and a pleasure to experience.
+Amazing progress with Google's [material design](http://www.google.co.uk/design/spec/material-design/introduction.html#) which puts a great emphasis on the coupling of animation in response to a user's actions makes what might be considered a very plain visual design filled with personality and a [pleasure to experience](http://material.cmiscm.com/).
 
 The continuation with interaction design and creating experiences that emmerse the user with pleasent and useful animation as visual feedback with bring web design closer to completeness. Don't forget to follow the amazing [Rachel Nabors](https://twitter.com/rachelnabors) to see what is [capable in web animation](http://codepen.io/rachelnabors/).
 
@@ -37,26 +37,40 @@ Showing what's possible with advanced SVG techniques is [Codrops](http://tympanu
 
 Serving crisp, clean and lightweight imagery that scales with the browser is a must and with [browser support](http://caniuse.com/#search=svg) at the best its ever been there's no reason not to start using it in designs for 2015.
 
-### Design Patterns/Systems - Changing how we build websites
+### Design Workflow
 
-Lorem
+The way we build websites is changing massively thanks to the responsive and mobile first movements which has meant we've needed adapt our design and development processes to cope with the new landscape. Hundreds of devices, screen sizes and capabilities means that websites need to built with the idea in mind that they can be viewed anywhere. No more pixel perfect layouts the web has gone back to its fluid roots, adaptability is key.
 
-### Typography - Keeps getting better and still the king
+As these added complexities begin to mount up it means that our old process of design doesn't work well anymore. Building scalable style systems that adopt modularity (a developers best friend) makes designs more reliable across screens. [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/) is a great example of how to tackle this problem. Long standing favourites such as [style guides](http://alistapart.com/article/creating-style-guides) and [style tiles](http://styletil.es/) are becoming essentials in the workflow to ensure consistency and reliability throughout the design. [Pattern Lab](http://patternlab.io/) is a great example how these two things can be brought together.
 
-Lorem
+In 2015 new [design methodologies/systems](http://css-tricks.com/design-systems-building-future/) and existing ones will grow in support. Companies must continue to adapt their design workflow to be able to deliver a truly great responsive experience and these new techniques and tools will only help them on their way.
+
+### Typography
+
+['Web Design is 95% Typography'](https://ia.net/blog/the-web-is-all-about-typography-period). Read this and understand how important typography is to the web. It is a textual medium and well as visual. At the very core all website exist of are files that are, for the majority, text rich.
+
+In 2015 expect to see more custom fonts as designers gain the skills to create their own fonts! Adding more character to websites and giving some that personal feel. As browsers continue to better how web fonts work so will the experience for users continue to better. Eluding back to the possiblity of [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/) in the near future will mean improved performance for web fonts as well.
 
 ### Workflow Efficiency and Tools
 
-Lorem
+The year's 2013 and 2014 were when developer stepped up their game in making creating website faster and more efficient with some [great tools](http://addyosmani.com/blog/199-slides-on-front-end-tooling-workflows/) and automated out their [workflows](https://speakerdeck.com/addyosmani/automating-front-end-workflow).
 
-### CSS - Game changers (shapes, current color, variables)
+With such great work being adopted and supported by the community 2015 should represent the year that everyone should be using them to a leats some degree in order to stay stay effective and competitive. Developers hate to repeat themselves and product owners, managers and bosses hate lengthy development time on projects so these revelations help ease the pain.
 
-Lorem
+### CSS
 
-### Video - Moving images!!!
+Thanks to big advancements in CSS developers are able to deliver effects, styles, layouts and animations that were previously void on the web and could only be achieved through very hacky imagery and javascript. More native CSS features means that we can begin to design in teh browser and create stuff like this!
 
-Lorem
+The future of CSS in 2015 could bring many things but nothing is for certain. CSS blend modes, shapes, regions, flexbox, new selectors, variables, more media queries and animation are just some of the things on the horizon. CSS [blend modes](https://medium.com/@bennettfeely/css-blend-modes-could-be-the-next-big-thing-in-web-design-6b51bf53743a) and [shapes](http://alistapart.com/article/css-shapes-101) particularly interest me because they offer things that are currently almost impossible natively and are hard to try and replicate.
+
+Another great article detailing the future CSS is [Tab Atkins](https://twitter.com/tabatkins), [The Future of CSS](http://www.xanthir.com/talks/2014-12-09/), give it a read.
+
+### Video
+
+A picture is worth a thousand words, so what is a video worth then? [Support for the HTML5 video element](http://caniuse.com/#feat=video) is as good as almost any modern feature on the web right now. So why do website not use this more? Well in 2015 I believe this will start to change, website like [Kickstarter](https://www.kickstarter.com/) have proved how effective a well put together product video can do for a business.
+
+Websites such as [Riley's Cycles](http://www.rileyscycles.co.uk/) and [Kaber Technologies](http://kabertech.com/) show what can be done with video in terms of design to make deeper more impactful first impression. It's possibly a trend but it's worth watching out for.
 
 ## The Future
 
-Lorem
+These are just soem of the things to watch out for in the coming year and by no means is this a complete list. As it has always been in the world of web development and design there are always surprises and sometimes we find solutions in places we never expected. There is only one certainty in the world of the web though... the future is bright :D
