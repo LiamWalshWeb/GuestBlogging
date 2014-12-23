@@ -1,7 +1,7 @@
 Top Ten Web Topics for 2015
 ===========================
 
-2014 was a great year for the web and the people who work in the industry. The community as always has driven some of the big changes in 2014 improving the web industry. Responsive web design came on leaps and bounds with the fact that responsive images with the '<picture>' element and 'srcset' attribute being introduced on an agreed spec thanks to much help from [these people](http://responsiveimages.org/), web typography continued going strong with better services, support and a future hope with [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/). There were moments when the community pulled together on a human level as well for [those who had] lost(http://www.zeldman.com/2014/06/10/the-color-purple/).
+2014 was a great year for the web and the people who work in the industry. The community as always has driven some of the big changes in 2014 improving the web industry. Responsive web design came on leaps and bounds with the fact that responsive images with the '<picture>' element and 'srcset' attribute being introduced on an agreed spec thanks to much help from [these people](http://responsiveimages.org/), web typography continued going strong with better services, support and a future hope with [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/). There were moments when the community pulled together on a human level as well for [those who had lost](http://www.zeldman.com/2014/06/10/the-color-purple/).
 
 So with such a great year coming to an end I thought we'd have a look what to watch out for in the web world for 2015.
 
