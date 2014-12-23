@@ -1,7 +1,7 @@
 Top Ten Web Topics for 2015
 ===========================
 
-2014 was a great year for the web and the people who work in the industry. The community as always has driven some of the big changes in 2014 bettering the web industry for good. Responsive web design came on leaps and bounds with the fact that responsive images with the '<picture>' element and 'srcset' attribute being introduced on an agreed spec thanks to much help from [these people](http://responsiveimages.org/), web typography continued going strong with better services, support and a future hope with [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/). There were moments when the community pulled together on a human level as well for [those who had] lost(http://www.zeldman.com/2014/06/10/the-color-purple/).
+2014 was a great year for the web and the people who work in the industry. The community as always has driven some of the big changes in 2014 improving the web industry. Responsive web design came on leaps and bounds with the fact that responsive images with the '<picture>' element and 'srcset' attribute being introduced on an agreed spec thanks to much help from [these people](http://responsiveimages.org/), web typography continued going strong with better services, support and a future hope with [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/). There were moments when the community pulled together on a human level as well for [those who had] lost(http://www.zeldman.com/2014/06/10/the-color-purple/).
 
 So with such a great year coming to an end I thought we'd have a look what to watch out for in the web world for 2015.
 
@@ -9,7 +9,7 @@ So with such a great year coming to an end I thought we'd have a look what to wa
 
 ### Responsive Web Design
 
-The story continues with responsive web design having it's best year in the industry in 2014 people are beginning to get a better grasp on how to deal with not just cross browser anymore but cross devices. One of the best examples of how modern day web design can work is that of [Brad Frost and co's](http://foodbank.bradfrostweb.com/timeline/) open redesign of the Pittsburgh Community Food Bank, showing how designers and developers can work together and build something that will stand the test of time.
+Responsive web design had it's best year in the industry in 2014 as people are beginning to get a better grasp on how to deal with not just cross browser anymore but cross devices. One of the best examples of how modern day web design can work is that of [Brad Frost and co's](http://foodbank.bradfrostweb.com/timeline/) open redesign of the Pittsburgh Community Food Bank, showing how designers and developers can work together and build something that will stand the test of time.
 
 In 2015 I expect to see people expanding on what we consider possible with responsive web design and innovating in design. With a bigger emphasis on immersive experiences that provide a deeper experience with more scrolling less clicking, typography with more personality, imagery and video along with the development of material design.
 
@@ -19,7 +19,7 @@ We already saw the first implementations of responsive images in the first brows
 
 ### Javascript
 
-The increasing popularity of one page web apps means new javascript frameworks such as [AngularJS](https://angularjs.org/), [Backbone.js](http://backbonejs.org/) and [React](http://facebook.github.io/react/) will only continue to grow in following. Javascript is popping up even more now thanks to the [Node.js](http://nodejs.org/) and [npm](https://www.npmjs.com/) and tools like [Yeoman](http://yeoman.io/), [Grunt](http://gruntjs.com/), [Bower](http://bower.io/) and [Gulp](http://gulpjs.com/) to name just a few.
+The increasing popularity of one page web apps means new javascript frameworks such as [AngularJS](https://angularjs.org/), [Backbone.js](http://backbonejs.org/) and [React](http://facebook.github.io/react/) will only continue to grow in use. Javascript is popping up even more now thanks to the [Node.js](http://nodejs.org/) and [npm](https://www.npmjs.com/) and tools like [Yeoman](http://yeoman.io/), [Grunt](http://gruntjs.com/), [Bower](http://bower.io/) and [Gulp](http://gulpjs.com/) to name just a few.
 
 It is true that Node.js had it's share of ups and [downs](https://medium.com/cool-code-pal/how-javascript-is-going-to-replace-node-js-33cc50bfe64c) in the community in 2014 but it also proved that we can make real time web apps with some [interesting twists](http://socket.io/demos/weplay/). In 2015 javascript will be ever more important to front end developers and will be a skill in high demand with websites growing increasingly interactive and blurring the lines between native and web apps.
 
@@ -29,7 +29,7 @@ Amazing progress with Google's [material design](http://www.google.co.uk/design/
 
 The continuation with interaction design and creating experiences that immerse the user with pleasant and useful animation as visual feedback with bring web design closer to completeness. Don't forget to follow the amazing [Rachel Nabors](https://twitter.com/rachelnabors) to see what is [capable in web animation](http://codepen.io/rachelnabors/).
 
-### SVG
+### SVG (Scalable Vector Graphics)
 
 Continued love and support for SVG is a certainty in 2015 with the great tools like [Snap.svg](http://snapsvg.io/) and some great tutorials on how to use them with [Sara Soueidan](http://sarasoueidan.com/). As the landscape of the web continues to change with more and more devices in different [shapes](https://www.android.com/wear/) and [sizes](https://www.apple.com/uk/iphone-6/) resolution independent imagery can only be possible with SVG.
 
@@ -73,4 +73,4 @@ Websites such as [Riley's Cycles](http://www.rileyscycles.co.uk/) and [Kaber Tec
 
 ## The Future
 
-These are just soem of the things to watch out for in the coming year and by no means is this a complete list. As it has always been in the world of web development and design there are always surprises and sometimes we find solutions in places we never expected. There is only one certainty in the world of the web though... the future is bright :D
+These are just some of the things to watch out for in the coming year and by no means is this a complete list. As it has always been in the world of web development and design there are always surprises and sometimes we find solutions in places we never expected. There is only one certainty in the world of the web though... the future is bright.
