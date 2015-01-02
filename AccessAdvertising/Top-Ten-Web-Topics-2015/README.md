@@ -1,9 +1,7 @@
 Top Ten Web Topics for 2015
 ===========================
 
-2014 was a great year for the web and the people who work in the industry. The community as always has driven some of the big changes in 2014 improving the web industry. Responsive web design came on leaps and bounds with the fact that responsive images with the '<picture>' element and 'srcset' attribute being introduced on an agreed spec thanks to much help from [these people](http://responsiveimages.org/), web typography continued going strong with better services, support and a future hope with [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/).
-
-So with such a great year coming to an end I thought we'd have a look what to watch out for in the web world for 2015.
+2014 was a great year for the web and the people who work in the industry. The community as always has driven some of the big changes in 2014 improving the web industry. Responsive web design came on leaps and bounds, responsive images finally made some progress, web typography continued going strong with improved services and we boosted our productivity with new workflow tools. So with such a great year coming to an end I thought we'd have a look what to watch out for in the web world for 2015.
 
 ## The Top Ten
 
@@ -49,7 +47,7 @@ In 2015 new [design methodologies/systems](http://css-tricks.com/design-systems-
 
 ['Web Design is 95% Typography'](https://ia.net/blog/the-web-is-all-about-typography-period). Read this and understand how important typography is to the web. It is a textual medium as well as visual.
 
-In 2015 expect to see more custom fonts as designers gain the skills to create their own fonts! Adding more character to websites and giving some that personal feel. As browsers continue to improve how web fonts work so will the experience for users continue to better. Alluding back to the possiblity of [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/) in the near future will mean improved performance for web fonts as well.
+In 2015 expect to see more custom fonts as designers gain the skills to create their own fonts! Adding more character to websites and giving some that personal feel. As browsers continue to improve how web fonts work so will the experience for users continue to better. The possiblity of [WOFF 2.0](http://www.w3.org/TR/2014/WD-WOFF2-20140508/) in the near future will mean improved performance for web fonts as well.
 
 ### Workflow Efficiency and Tools
 
