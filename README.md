@@ -8,3 +8,5 @@ Here resides all the blog posts that I don't publish on my own blog directly. Th
 
 - Access Advertising
   - [The Triforce of Front End Development](AccessAdvertising/The-Triforce-of-Front-End-Development)
+  - [Top Ten Web Topics for 2015](AccessAdvertising/Top-Ten-Web-Topics-2015)
+  - [Revival of Web Animation](AccessAdvertising/Revival-of-Web-Animation)
