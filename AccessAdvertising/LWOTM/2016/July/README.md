@@ -1,7 +1,7 @@
 Liam’s Websites of the Month - July Edition
 ==================================================
 
-![LWOTM Logo](../../../LWOTM-logo-beard.jpg)
+![LWOTM Logo](../../LWOTM-logo-beard.jpg)
 
 -------
 
