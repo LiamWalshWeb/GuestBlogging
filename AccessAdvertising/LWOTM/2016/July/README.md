@@ -3,7 +3,7 @@ Liam’s Websites of the Month - July Edition
 
 ![LWOTM Logo](../../LWOTM-logo-beard.jpg)
 
--------
+Hello once again everyone!!! Another month and another horde of websites to feast your eyes upon. If you come seeking the very best the internet has to offer then you've come to the right place as I collate a website (or two... or three... depending on my mood and current events) every week to share with the world for those who don't have the time to mine the caves of internet gold so that all may bare witness to the true nature of the web! Let's start.
 
 1.[ Swiss Army Man](http://swissarmyman.com/)
 
