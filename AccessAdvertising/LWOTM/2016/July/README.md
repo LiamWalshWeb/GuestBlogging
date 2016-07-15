@@ -1,7 +1,7 @@
-Liam’s Websites of the Month - May Edition
+Liam’s Websites of the Month - July Edition
 ==================================================
 
-![LWOTM Logo](http://www.accessadvertising.co.uk/sites/default/files/styles/blog_full/public/uploads/blog/LWOTM.jpg?itok=Yub89QOO)
+![LWOTM Logo](../../../LWOTM-logo-beard.jpg)
 
 -------
 
