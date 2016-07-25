@@ -49,6 +49,8 @@ We ended the day with a Drupal-ish quiz! With everyone who was attending in the 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Dru-pals clock in a healthy fifth place win at the <a href="https://twitter.com/hashtag/dcbristol16?src=hash">#dcbristol16</a> quiz <a href="https://t.co/mUSFGqOLBr">pic.twitter.com/mUSFGqOLBr</a></p>&mdash; Access (@accessdigital) <a href="https://twitter.com/accessdigital/status/756878384618143744">July 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And then it all came to a close! we joined the rest of the community at the chosen hotspot for more drinks socialising and that was that! A whole day at a Drupal Camp done and I didn't remember why I was so nervous about attending one! After the post-conference drinks people parted ways and the boys from Acces road off into the sunset...
+And then it all came to a close! we joined the rest of the community at the chosen hotspot for more drinks socialising and that was that! A whole day at a Drupal Camp done and I didn't remember why I was so nervous about attending one! So my very first Drupal Camp experience was a good one, I learned a lot not just from the talks but from the experience of being at a Drupal community event as well and I'm sure I'll be back at more!
+
+After the post-conference drinks people parted ways, some stayed behind, other moved onto other places and the boys from Acces road off into the sunset...
 
 ![Cowboys into the sunset](into-the-sunset.jpg)
