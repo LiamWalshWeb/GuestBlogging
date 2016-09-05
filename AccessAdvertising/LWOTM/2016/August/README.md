@@ -3,36 +3,34 @@ Liam’s Websites of the Month - August Edition
 
 ![LWOTM Logo](../../LWOTM-logo-beard.jpg)
 
-Introduction
+Welcome back to new and old visitors to August's edition of Liam's Websites of the Month! With the summer nearing it's end, the Stark's are always right, the Olympics are mostly over but let's get you all back in the gold medal spirit with five top of the podium website winners to top things off! Sit back and prepare for some magic!
 
 1.[ Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes/)
 
 ![Web Design in 4 Minutes homepage](web-design-four-minutes.jpg)
 
-So the first winner is quite insightful and an inspired piece of learning. This websites shows on a very basic level how websites are made on a very basic level but nonetheless completely correct. It also shows how websites should be approached when being create as well. To create a very organic, natural and highly useable website it's best to start with the content and actually structuring the HTML markup to make sense before thinking about the flashy bits. Your HTML should have a logical order like a novel. This first winner provides nice interactivity and insight, the winner is... Wed Design in 4 Minutes
+Wed Design in 4 Minutes is quite insightful and an inspired piece of learning. This website shows, on a very basic level, how websites are made in their simplest form. It also demonstrates approaches to web design to create a very organic, natural and highly useable website. This website provides a unique interactive guide on building the website you're actually viewing and seeing the progression as you continue on keeps you going until the end.
 
 2.[ Space Advisor](http://www.space-advisor.ca/en/?experience)
 
 ![Space Advisor homepage](space-advisor.jpg)
 
-The winner submitted by Smith has a whole host of reasons as to why it won but you simply need to see for yourself. It combines a very ambitious desktop experience with 3D, animation, sound and nice graphics with a mobile experience that connects to the desktop browser and allows you to play mini games etc from you phone! Black magic I hear you cry? No it's only... Space Advisor
+Space Advisor combines a very ambitious desktop experience featuring 3D, animation, sound and incredible graphics with a mobile experience that connects to the desktop browser and allows you to play mini games etc from your phone! Black magic I hear you cry? No it's all thanks to the power of WebGl and WebSockets used in very creative ways. Anybody wanting to know how to push the limits of today's web tech should definitely check this out.
 
 3.[ The Premier League](https://www.premierleague.com/)
 
 ![The Premier League homepage](premier-league.jpg)
 
-The third and final winner celebrates the return on the Premier League! Most United fans in the house are probably quietly optimistic at this point, I certainly am because if United keep doing well then it means I go home to a happy wife otherwise it's a grumpy little football hooligan lad 
-The website does a good job of relaying quite a large amount of data and does very well on smaller devices despite having so much information on page.
-The final winner and also this week's winner is... The Premier League
+The new beginning of a new season of football has ushered a very different Premier League this year for England and with that they also have a ravamped website. This webiste is a great example of how to relay tabular data and large amounts of information without cluttering the interface too much and manages to be responsive and work excellently on various devices.
 
 4.[ Donald Trump Colouring Book](http://obliterate.me/)
 
 ![Donald Trump Colouring Book homepage](donald-trump-colouring-book.jpg)
 
-The first winner goes to a man who has created a colouring book for mature adults who appreciate the incredible lunacy and childlike nature of Donald Trump, you remember Trump Donald right? It's not as good as that but when else do you get a domain like this coupled with something so current? Please send in your bets colouring ins and gratifies! (Adam I'm expecting great things from you) The first winner is... Donald Trump Colouring Book!!!
+The next winner goes to Donald Trump Colouring Book, a website which is a colouring book for mature adults who appreciate the incredible lunacy and childlike nature of Donald Trump. No matter if you're a lover or hater of America's least qualified presidential candidate everyone can find some joy in scribbling and graffitiing a politician. Maybe tweet us some of your best scribbles into [@accessdigital](https://twitter.com/accessdigital/) using the hashtag [#LWOTM and #DonaldDoodles](https://twitter.com/home?status=%23LWOTM%20%23DonaldDoodles)?
 
 5.[ Foxy Casino - The Secrets of Magic Revealed](https://www.foxycasino.com/featured/secrets-of-magic.html)
 
 ![Foxy Casino - The Secrets of Magic Revealed homepage](secrets-of-magic.jpg)
 
-The second winner is a real golden nugget! It harkens back to 1980's action films and video games in terms of it's style and presentation. I especially love the colour pallete for this website as it instantly transports you to the era the content hails from. Some great design bits and animation used here. The second winner is... Secrets of Magic!!!
+The final winner of the month harkens back to 1980's action films and video games in terms of it's style and presentation. What I love about Foxy Casino's The Secrets of Magic Revealed is the colour pallete as it transports you to the era of origin. There is good use of animation and typography to complement the 1980's feel of the website. A great website for those looking for a piece of the past created in a modern way.
